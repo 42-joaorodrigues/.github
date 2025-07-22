@@ -10,7 +10,7 @@ A month-long immersion in the fundamentals of C, memory, shell scripting, and te
 
 | Type     | Project  | Description                             | Repository                                      |
 |----------|----------|-----------------------------------------|-------------------------------------------|
-| Bootcamp | Piscine  | Introduction to C, logic, and teamwork | [Link](https://github.com/ghjoaorodrigues/42-C_Piscine) |
+| Bootcamp | Piscine  | Introduction to C, logic, and teamwork | [Link](https://github.com/42-joaorodrigues/C_Piscine) |
 
 ---
 
@@ -20,7 +20,7 @@ A focused one-week reinforcement of key C concepts after the Piscine.
 
 | Type        | Project         | Description                            | Repository                                         |
 |-------------|------------------|----------------------------------------|----------------------------------------------|
-| Post-Piscine | Piscine Reload | Additional C exercises & challenges    | [Link](https://github.com/ghjoaorodrigues/42-C_Piscine_Reload) |
+| Post-Piscine | Piscine Reload | Additional C exercises & challenges    | [Link](https://github.com/42-joaorodrigues/C_Piscine_Reload) |
 
 ---
 
