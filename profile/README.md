@@ -79,6 +79,16 @@ Want to know more about a specific project? Open the corresponding repo — each
 
 ---
 
+## Downloadable Version
+
+Want to clone my entire 42 journey — including all projects, piscine, and modules — in one go?
+
+Check out the meta-repo:  
+**[42-downloadable](https://github.com/ghjoaorodrigues/42-downloadable)**  
+(cloneable with all submodules for offline access)
+
+---
+
 ## Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/injoaorodrigues) or check out more of my work on [GitHub](https://github.com/ghjoaorodrigues).
