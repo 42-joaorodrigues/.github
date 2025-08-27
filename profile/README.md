@@ -68,8 +68,9 @@ A full curriculum focused on low-level programming, system architecture, and sof
 | Project           | Description                                     | Repository |
 |------------------|-------------------------------------------------|------------|
 | Born2beroot      | Linux VM configuration and monitoring           | [Link](https://github.com/42-joaorodrigues/Born2beroot) |
-| NetPractice       | Network simulation and subnetting logic         | [Link](https://github.com/42-joaorodrigues/NetPractice) |
-| Webserv           | HTTP/1.1 web server written in C++             | [Link](https://github.com/42-joaorodrigues/Webserv) |
+| NetPractice      | Network simulation and subnetting logic         | [Link](https://github.com/42-joaorodrigues/NetPractice) |
+| Webserv          | HTTP/1.1 web server written in C++             | [Link](https://github.com/42-joaorodrigues/Webserv) |
+| Inception        | Dockerized WordPress stack with NGINX & DB     | [Link](https://github.com/42-joaorodrigues/Inception) |
 
 ---
 
